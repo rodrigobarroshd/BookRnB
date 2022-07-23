@@ -12,4 +12,4 @@ When you create a flashcard, you put it into the first box.
 To test your knowledge, you choose a box, pick a random flashcard, and check if you know the answer to the card’s question.
 If you know the answer, then you move the card to the next higher box.
 If you don’t know the answer, then you move the card back to the first box.
-The higher the box number, the less frequently you check the flashcards in that box to test your knowledge. -->
+The higher the box number, the less frequently you check the flashcards in that box to test your knowledge... -->
